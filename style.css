@@ -6,7 +6,7 @@ header {
 
 #gbar{
     font-size: 84%;
-    padding 0 0 4px;
+    padding: 0 0 4px;
     float: left;
 }
 
@@ -29,6 +29,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 #searchbar {
     display: block;
